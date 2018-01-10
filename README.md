@@ -1,1 +1,3 @@
-# Unity-Flock-Simulation
+# Unity-Flocking-Simulation
+
+![Screenshot](Screenshot.png)
